@@ -1,1 +1,1 @@
-<h1>EIT</h1>
+<h1>EIT(Electrical Impedance Tomography)</h1>
