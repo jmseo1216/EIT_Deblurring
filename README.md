@@ -1,4 +1,4 @@
-# EIT(Electrical Impedance Tomography)
+# EIT(Electrical Impedance Tomography)기술을 이용한 심폐기능 영상화 
 ## 수치 시뮬레이션 기반 팬텀 실험에서 u-net을 활용한 deblurring.
 
 ### Introduction
