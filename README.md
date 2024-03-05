@@ -12,7 +12,7 @@ EIT 영상 기술은 자가 호흡이 불가능한 환자의 병상 곁에서 �
 인체(Ω)에 부착한 전극(Ɛ)를 사용하여 전류(I)를 주입하면, 전도도 분포 ($\sigma$)에 따라 왜곡된 전압 분포 (𝑢)가 형성된다.  
 EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전기 전도도 분포 $\sigma \in R^n$ 를 영상화하므로, V에서 $\sigma$로 가는 함수 f를 찾는 문제로 볼 수 있다: $f(V) = \sigma$
 
-##### Image Reconstruction 
+#### Image Reconstruction 
 - 심폐영상에서의 역문제(inverse problem)는 시간차(time-difference)데이터 V로 부터 시간차 영상 $\sigma$를 복원하는 것을 목표로 한다.
 Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으로 나타낼 수 있다.
 
