@@ -52,12 +52,13 @@ $$\mathbb{S}\gamma = V$$ <br>
 </p> <br>
 
 ### Result 
-![4C90ECEA-4860-4A60-90C1-DEBB2E2803A0](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/2f9fade8-72ec-46f5-9816-3962204716a5)
-
 
 <p align="center">
-  <img width="600" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/2f9fade8-72ec-46f5-9816-3962204716a5">
+  <img width="670" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/2f9fade8-72ec-46f5-9816-3962204716a5">
 </p> <br>
+
+### Reference
+
 
 
 
