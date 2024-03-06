@@ -16,5 +16,9 @@ EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전�
 심폐영상에서의 역문제(inverse problem)는 시간차(time-difference)데이터 V로 부터 시간차 영상 $\sigma$를 복원하는 것을 목표로 한다. <br>
 Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으로 나타낼 수 있다. <br>
 $$\mathbb{S}\gamma = V$$
-<span style="font-size: x-larger;">$$\mathbb{S}\gamma = V$$</span>
-<span style="font-size: 5em;">$$\mathbb{S}\gamma = V$$</span>
+
+$$\begin{bmatrix}
+0 & \cdots & 0 \\
+\vdots & \ddots & \vdots \\
+0 & \cdots & 0
+\end{bmatrix}$$
