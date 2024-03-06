@@ -19,4 +19,6 @@ $$\mathbb{S}\gamma = V$$
 
 <img width="400" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e42feab0-eb73-4857-90d9-52cb6226b8ae">
 
-
+<div style="text-align: center;">
+  <img width="400" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e42feab0-eb73-4857-90d9-52cb6226b8ae">
+</div>
