@@ -23,3 +23,9 @@ $$\begin{bmatrix}
 \vdots & \ddots & \vdots \\  
 \square & \cdots & \square 
 \end{bmatrix}$$  
+
+$$\begin{bmatrix}
+\square & \square & \cdots & \square \\
+\vdots & \vdots & \ddots & \vdots \\
+\square & \square & \cdots & \square
+\end{bmatrix}$$
