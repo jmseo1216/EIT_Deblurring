@@ -29,3 +29,20 @@ $$\begin{bmatrix}
 \vdots & \ddots & \ddots & \vdots \\
 \square & \cdots & \cdots & \square
 \end{bmatrix}$$
+
+<div style="display: flex;">
+  <div style="margin-right: 20px;">
+    $$\begin{bmatrix}
+    \square & \cdots & \cdots & \square \\
+    \vdots & \ddots & \ddots & \vdots \\
+    \square & \cdots & \cdots & \square
+    \end{bmatrix}$$
+  </div>
+  <div>
+    $$\begin{bmatrix}
+    \square & \cdots & \cdots & \square \\
+    \vdots & \ddots & \ddots & \vdots \\
+    \square & \cdots & \cdots & \square
+    \end{bmatrix}$$
+  </div>
+</div>
