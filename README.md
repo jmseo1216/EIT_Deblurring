@@ -38,6 +38,8 @@ $$\mathbb{S}\gamma = V$$ <br>
 위 식을 통해 얻은 $\gamma$는 정규화를 통해 선형시스템을 풀었지만 여전히 nonlinear inverse problem으로 인해 blur한 이미지를 얻는다.
 이를 sharp한 이미지를 얻기위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
 
-
+<p align="center">
+  <img width="450" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4650e4e6-1e70-4afd-8b39-86d47a5a9fed">
+</p> <br>
 
 
