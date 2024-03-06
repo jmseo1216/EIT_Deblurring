@@ -44,5 +44,5 @@ $$\mathbb{S}\gamma = V$$ <br>
 ![897F1CFC-1FF6-41C5-881D-85F9D3FB7700](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4f365ea9-d896-436d-9097-9694d6cec85c)
 
 - training set { $\sigma_i, \sigma_i^{exp}$ } where i = {1,..,612} <br>
-- 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 interpolation을 수행한 data_set을 사용하였다. <br>
+- 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 64 * 64로 해상도를 맞추기 위해 interpolation을 수행한 data_set을 사용하였다. <br>
 - 
