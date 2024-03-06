@@ -28,3 +28,10 @@ $$\mathbb{S}\gamma = V$$ <br>
 <p align="center">
   <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3357aefb-8fe5-4903-ae8a-72da0e3e5226">
 </p> <br>
+
+다음 사진은 위 식을 통해 얻은 하나의 원형 모앙의 팬텀실험 결과이다.
+
+
+
+
+
