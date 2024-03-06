@@ -8,7 +8,7 @@ EIT 영상 기술은 자가 호흡이 불가능한 환자의 병상 곁에서 �
 ![D2A4BE35-5745-48DD-806C-A100D9DD0B1D](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/baa78a74-8460-4eb0-a15c-1c5e57579f8c)
 
 <p align="center">
-  <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/baa78a74-8460-4eb0-a15c-1c5e57579f8c">
+  <img width="528" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/baa78a74-8460-4eb0-a15c-1c5e57579f8c">
 </p> <br>
 
 ### EIT 기술을 활용한 영상 복원 알고리즘
