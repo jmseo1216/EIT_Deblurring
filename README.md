@@ -25,7 +25,6 @@ $$\mathbb{S}\gamma = V$$ <br>
 - $\gamma$ 는 전도도 분포(영상에서 복원하고자 하는 픽셀값)이다. <br>
 
 선형시스템 $\mathbb{S}\gamma = V$를 풀면 $\gamma$를 복원할 수 있지만 sensitivity matrix $\mathbb{S}$은 ill-conditioned 하기 때문에 정규화(regularization)과정이 필요하다. <br>
-
 <p align="center">
   <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3357aefb-8fe5-4903-ae8a-72da0e3e5226">
 </p> <br>
