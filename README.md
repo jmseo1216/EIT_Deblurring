@@ -17,14 +17,9 @@ EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전�
 Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으로 나타낼 수 있다. <br>
 $$\mathbb{S}\gamma = V$$
 
-$$\begin{bmatrix}
-0 & \cdots & 0 \\
-\vdots & \ddots & \vdots \\
-0 & \cdots & 0
-\end{bmatrix}$$
 
-$$\begin{bmatrix}
-\square & \cdots & \square \\
-\vdots & \ddots & \vdots \\
-\square & \cdots & \square
-\end{bmatrix}$$
+$$\begin{bmatrix}  $$\begin{bmatrix}
+\square & \cdots & \square \\  \square & \cdots & \square \\
+\vdots & \ddots & \vdots \\  \vdots & \ddots & \vdots \\
+\square & \cdots & \square  \square & \cdots & \square
+\end{bmatrix}$$  \end{bmatrix}$$
