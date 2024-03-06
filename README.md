@@ -42,4 +42,4 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 - training set {$\sigma_i, \sigma_i^{exp}$} 
 
-$\{\sigma_i, \sigma_i^{exp}\}_i$ 
+${\sigma_i, \sigma_i^{exp}}_i$ 
