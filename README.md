@@ -56,7 +56,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 
 <p align="center">
-  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/2f9fade8-72ec-46f5-9816-3962204716a5">
+  <img width="600" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/2f9fade8-72ec-46f5-9816-3962204716a5">
 </p> <br>
 
 
