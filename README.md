@@ -25,7 +25,7 @@ $$\begin{bmatrix}
 \end{bmatrix}$$  
 
 $$\begin{bmatrix}
-\square & \square & \cdots & \square \\
+\square & \cdots & \cdots & \square \\
 \vdots & \vdots & \ddots & \vdots \\
-\square & \square & \cdots & \square
+\square & \cdots & \cdots & \square
 \end{bmatrix}$$
