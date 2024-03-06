@@ -19,6 +19,6 @@ $$\mathbb{S}\gamma = V$$ <br>
 <p align="center">
   <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e42feab0-eb73-4857-90d9-52cb6226b8ae">
 </p> <br>
-- $$\mathbb{S}$$는 sensitivity matrix로 영상 도메인(Ω)과 전극위치, 전류 인가 패턴에 의존하며, row는 8개의 전극으로부터 전압데이터를 얻은 개수 40개 이고, col은 mesh size이다.
-- V는 time difference 데이터로 한 팬텀에 대해 8개의 전극으로부터 전압데이터를 얻은 개수 40개이다.
-- $$\gamma$$ 는 전도도 분포(영상에서 복원하고자 하는 픽셀값)이다. 
+- $$\mathbb{S}$$는 sensitivity matrix로 영상 도메인(Ω)과 전극위치, 전류 인가 패턴에 의존하며, row는 8개의 전극으로부터 전압데이터를 얻은 개수 40개 이고, col은 mesh size이다.<br>
+- V는 time difference 데이터로 한 팬텀에 대해 8개의 전극으로부터 전압데이터를 얻은 개수 40개이다. <br>
+- $\gamma$ 는 전도도 분포(영상에서 복원하고자 하는 픽셀값)이다. <br>
