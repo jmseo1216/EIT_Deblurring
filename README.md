@@ -22,3 +22,9 @@ $$\begin{bmatrix}
 \vdots & \ddots & \vdots \\
 0 & \cdots & 0
 \end{bmatrix}$$
+
+$$\begin{bmatrix}
+\square & \cdots & \square \\
+\vdots & \ddots & \vdots \\
+\square & \cdots & \square
+\end{bmatrix}$$
