@@ -60,4 +60,17 @@ $$\mathbb{S}\gamma = V$$ <br>
   </div>
 </div>
 
-
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
+      <br>
+      Fig. 2
+    </div>
+    <div>
+      <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
+      <br>
+      Fig. 3
+    </div>
+  </div>
+</div>
