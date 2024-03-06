@@ -9,13 +9,16 @@ EIT 영상 기술은 자가 호흡이 불가능한 환자의 병상 곁에서 �
 
 ### EIT 기술을 활용한 영상 복원 알고리즘
 수치 시뮬레이션기반 팬텀 실험에서는 8개의 전극과 도메인(신체)안에 원형 모양(허파)을 추가하여 실험하였다. (COMSOL Multiphysics 에서 수행) <br>
-인체(Ω)에 부착한 전극(Ɛ)를 사용하여 전류(I)를 주입하면, 전도도 분포 ($\sigma$)에 따라 왜곡된 전압 분포 (𝑢)가 형성된다.  
-EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전기 전도도 분포 $\sigma \in R^n$ 를 영상화하므로, V에서 $\sigma$로 가는 함수 f를 찾는 문제로 볼 수 있다: $f(V) = \sigma$
+인체(Ω)에 부착한 전극(Ɛ)를 사용하여 전류(I)를 주입하면, 전도도 분포 ($\gamma$)에 따라 왜곡된 전압 분포 (𝑢)가 형성된다.  
+EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전기 전도도 분포 $\gamma \in R^n$ 를 영상화하므로, V에서 $\gamma$로 가는 함수 f를 찾는 문제로 볼 수 있다: $f(V) = \gamma$
 
 #### Image Reconstruction 
 심폐영상에서의 역문제(inverse problem)는 시간차(time-difference)데이터 V로 부터 시간차 영상 $\sigma$를 복원하는 것을 목표로 한다. <br>
 Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으로 나타낼 수 있다. <br>
 $$\mathbb{S}\gamma = V$$ <br>
 <p align="center">
-  <img width="528" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e42feab0-eb73-4857-90d9-52cb6226b8ae">
-</p>
+  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e42feab0-eb73-4857-90d9-52cb6226b8ae">
+</p> <br>
+- $$\mathbb{S}$$는 sensitivity matrix로 영상 도메인(Ω)과 전극위치, 전류 인가 패턴에 의존하며, row는 8개의 전극으로부터 전압데이터를 얻은 개수 40개 이고, col은 mesh size이다.
+- V는 time difference 데이터로 한 팬텀에 대해 8개의 전극으로부터 전압데이터를 얻은 개수 40개이다.
+- $\gamma$ 는 전도도 분포(영상에서 복원하고자 하는 픽셀값)이다. 
