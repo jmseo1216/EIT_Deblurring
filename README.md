@@ -47,6 +47,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 - 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 64 * 64로 해상도를 맞추기 위해 interpolation을 수행한 data_set을 사용하였다. <br>
 
 <p align="center">
-  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/c37578f3-c104-42ab-bcf0-c1f750f33255">
+  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/220667b7-23d2-4694-b1b5-a498e3e551c3">
 </p> <br>
 
+![F3C73D6A-8301-4F31-A368-FC7925413A8A](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/220667b7-23d2-4694-b1b5-a498e3e551c3)
