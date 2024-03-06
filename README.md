@@ -30,21 +30,19 @@ $$\mathbb{S}\gamma = V$$ <br>
 </p> <br>
 
 다음 사진은 위 식을 통해 얻은 하나의 원형 모앙의 팬텀실험 결과이다.<br>
-<p align="center">
-  <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
-</p> <br>
 
 <p align="center">
   <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
   <br>
-  Fig. 4
+  Fig. 2
 </p>
 
 ### Image reconstruction Algorithm using U-Net
-위 식을 통해 얻은 $\gamma$는 정규화를 통해 선형시스템을 풀었지만 여전히 nonlinear inverse problem으로 인해 blur한 이미지를 얻는다.
+위 식을 통해 얻은 Fig. 2 ( $\gamma$ )는 정규화를 통해 선형시스템을 풀었지만 여전히 nonlinear inverse problem으로 인해 blur한 이미지를 얻는다.
 이를 sharp한 이미지를 얻기위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
 
 ![897F1CFC-1FF6-41C5-881D-85F9D3FB7700](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4f365ea9-d896-436d-9097-9694d6cec85c)
 
-- training set { $\sigma_i, \sigma_i^{exp}$ } where i = {1,..,612}
-- 우리가 사용한 data_set은 
+- training set { $\sigma_i, \sigma_i^{exp}$ } where i = {1,..,612} <br>
+- 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 interpolation을 수행한 data_set을 사용하였다. <br>
+- 
