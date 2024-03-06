@@ -51,6 +51,8 @@ $$\mathbb{S}\gamma = V$$ <br>
   <img width="430" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/e6cf3449-21ed-4526-b910-a365fb22db80">
 </p> <br>
 
+### Result 
+
 
 
 
