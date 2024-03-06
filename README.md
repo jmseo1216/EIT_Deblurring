@@ -58,7 +58,8 @@ $$\mathbb{S}\gamma = V$$ <br>
 </p> <br>
 
 ### Reference
-
+Lee, K., Yoo, M., Jargal, A., & Kwon, H. (2020). Electrical impedance tomography-based abdominal subcutaneous fat estimation method using deep learning. Computational and Mathematical Methods in Medicine, 2020. <br>
+Hamilton, S. J., & Hauptmann, A. (2018). Deep D-bar: Real-time electrical impedance tomography imaging with deep neural networks. IEEE transactions on medical imaging, 37(10), 2367-2377.
 
 
 
