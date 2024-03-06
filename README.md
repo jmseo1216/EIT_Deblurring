@@ -7,6 +7,10 @@ EIT 영상 기술은 자가 호흡이 불가능한 환자의 병상 곁에서 �
 
 ![D2A4BE35-5745-48DD-806C-A100D9DD0B1D](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/baa78a74-8460-4eb0-a15c-1c5e57579f8c)
 
+<p align="center">
+  <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/baa78a74-8460-4eb0-a15c-1c5e57579f8c">
+</p> <br>
+
 ### EIT 기술을 활용한 영상 복원 알고리즘
 수치 시뮬레이션기반 팬텀 실험에서는 8개의 전극과 도메인(신체)안에 원형 모양(허파)을 추가하여 실험하였다. (COMSOL Multiphysics 에서 수행) <br>
 인체(Ω)에 부착한 전극(Ɛ)를 사용하여 전류(I)를 주입하면, 전도도 분포 ($\gamma$)에 따라 왜곡된 전압 분포 (𝑢)가 형성된다.  
