@@ -45,4 +45,19 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 - training set { $\sigma_i, \sigma_i^{exp}$ } where i = {1,..,612} <br>
 - 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 64 * 64로 해상도를 맞추기 위해 interpolation을 수행한 data_set을 사용하였다. <br>
-- 
+
+
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd">
+    <br>
+    Fig. 3
+  </div>
+  <div style="display: inline-block;">
+    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762">
+    <br>
+    Fig. 4
+  </div>
+</div>
+
+
