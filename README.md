@@ -18,8 +18,8 @@ Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으
 $$\mathbb{S}\gamma = V$$
 
 
-$$\begin{bmatrix}  $$\begin{bmatrix}
-\square & \cdots & \square \\  \square & \cdots & \square \\
-\vdots & \ddots & \vdots \\  \vdots & \ddots & \vdots \\
-\square & \cdots & \square  \square & \cdots & \square
-\end{bmatrix}$$  \end{bmatrix}$$
+$$\begin{bmatrix}  
+\square & \cdots & \square \\  
+\vdots & \ddots & \vdots \\  
+\square & \cdots & \square 
+\end{bmatrix}$$  
