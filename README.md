@@ -40,6 +40,6 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 ![897F1CFC-1FF6-41C5-881D-85F9D3FB7700](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4f365ea9-d896-436d-9097-9694d6cec85c)
 
-- training set {$\sigma_i, \sigma_i^{exp}$}_i
+- training set {$\sigma_i, \sigma_i^{exp}$}
 
 ${\sigma_i, \sigma_i^{exp}}_i$ 
