@@ -39,7 +39,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 이를 sharp한 이미지를 얻기위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
 
 <p align="center">
-  <img width="450" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4650e4e6-1e70-4afd-8b39-86d47a5a9fed">
+  <img width="550" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4650e4e6-1e70-4afd-8b39-86d47a5a9fed">
 </p> <br>
 
 
