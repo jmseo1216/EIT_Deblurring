@@ -43,8 +43,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 ![897F1CFC-1FF6-41C5-881D-85F9D3FB7700](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4f365ea9-d896-436d-9097-9694d6cec85c)
 
-- training set { $\sigma_i, \sigma_i^{exp}$ } where i = {1,..,612} <br>
-{ $\sigma_i^{exp} , \sigma_i$ }  check
+- training set { $\sigma_i^{exp} , \sigma_i$ } where i = {1,..,612} <br>
 
 - 이 모델에서 사용한 data_set은 Fig. 2 에서 ( $\gamma$ )를 64 * 64로 해상도를 맞추기 위해 interpolation을 수행한 data_set을 사용하였다. <br>
 
@@ -52,31 +51,8 @@ $$\mathbb{S}\gamma = V$$ <br>
   <img width="430" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/220667b7-23d2-4694-b1b5-a498e3e551c3">
 </p> <br>
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd">
-    <br>
-    Fig. 3 : $\sigma_i^{exp}$
-  </div>
-  <div style="display: inline-block;">
-    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762">
-    <br>
-    Fig. 4 : $\sigma_i$
-  </div>
-</div>
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd">
-    <br>
-    Fig. 3: $`\sigma_i^{exp}`$
-  </div>
-  <div style="display: inline-block;">
-    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762">
-    <br>
-    Fig. 4: $`\sigma_i`$
-  </div>
-</div>
 
-![079784CF-DCD1-4601-B1E2-8B49245D2B7F_4_5005_c](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd)
-![23E3524D-6538-4663-AAD1-008ADB53C7B0_4_5005_c](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762)
+
+
+
