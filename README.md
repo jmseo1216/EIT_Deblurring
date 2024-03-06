@@ -34,6 +34,12 @@ $$\mathbb{S}\gamma = V$$ <br>
   <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
 </p> <br>
 
+<p align="center">
+  <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
+  <br>
+  Fig. 4
+</p>
+
 ### Image reconstruction Algorithm using U-Net
 위 식을 통해 얻은 $\gamma$는 정규화를 통해 선형시스템을 풀었지만 여전히 nonlinear inverse problem으로 인해 blur한 이미지를 얻는다.
 이를 sharp한 이미지를 얻기위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
