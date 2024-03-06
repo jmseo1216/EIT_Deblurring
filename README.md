@@ -65,6 +65,18 @@ $$\mathbb{S}\gamma = V$$ <br>
   </div>
 </div>
 
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd">
+    <br>
+    Fig. 3: $`\sigma_i^{exp}`$
+  </div>
+  <div style="display: inline-block;">
+    <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762">
+    <br>
+    Fig. 4: $`\sigma_i`$
+  </div>
+</div>
 
 ![079784CF-DCD1-4601-B1E2-8B49245D2B7F_4_5005_c](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3ba1f9f4-29c0-486c-8e7e-347f409641fd)
 ![23E3524D-6538-4663-AAD1-008ADB53C7B0_4_5005_c](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/136b7502-129a-42ea-a707-0afc0658e762)
