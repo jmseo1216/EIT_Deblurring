@@ -26,6 +26,6 @@ $$\begin{bmatrix}
 
 $$\begin{bmatrix}
 \square & \cdots & \cdots & \square \\
-\vdots & \vdots & \ddots & \vdots \\
+\vdots & \ddots & \ddots & \vdots \\
 \square & \cdots & \cdots & \square
 \end{bmatrix}$$
