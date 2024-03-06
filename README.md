@@ -26,7 +26,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 선형시스템 $\mathbb{S}\gamma = V$를 풀면 $\gamma$를 복원할 수 있지만 sensitivity matrix $\mathbb{S}$은 ill-conditioned 하기 때문에 정규화(regularization)과정이 필요하다. <br>
 <p align="center">
-  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/3357aefb-8fe5-4903-ae8a-72da0e3e5226">
+  <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/c37578f3-c104-42ab-bcf0-c1f750f33255">
 </p> <br>
 
 다음 사진은 위 식을 통해 얻은 하나의 원형 모앙의 팬텀실험 결과이다.
