@@ -12,7 +12,7 @@ EIT 영상 기술은 자가 호흡이 불가능한 환자의 병상 곁에서 �
 EIT는 생체 전기임피던스 데이터 $V \in R^m$ 로부터 인체 내 전기 전도도 분포 $\gamma \in R^n$ 를 영상화하므로, V에서 $\gamma$로 가는 함수 f를 찾는 문제로 볼 수 있다: $f(V) = \gamma$
 
 #### Image Reconstruction 
-수치 시뮬레이션기반 팬텀 실험에서는 8개의 전극과 도메인(신체)안에 원형 모양(허파)을 추가하여 실험하였다. <br> (COMSOL Multiphysics 에서 수행) <br>
+수치 시뮬레이션 기반 팬텀 실험에서는 8개의 전극과 도메인(신체)안에 원형 모양(허파)을 추가하여 실험하였다. <br> (COMSOL Multiphysics 에서 수행) <br>
 심폐영상에서의 역문제(inverse problem)는 시간차(time-difference)데이터 V로 부터 시간차 영상 $\sigma$를 복원하는 것을 목표로 한다. <br>
 Maxwell's Equations에 의해 다음과 같이 전류-전압 관계를 수식으로 나타낼 수 있다. <br>
 $$\mathbb{S}\gamma = V$$ <br>
@@ -29,7 +29,7 @@ $$\mathbb{S}\gamma = V$$ <br>
   <img width="350" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/c37578f3-c104-42ab-bcf0-c1f750f33255">
 </p> <br>
 
-다음 사진은 위 식을 통해 얻은 하나의 원형 모앙의 팬텀실험 결과이다.<br>
+다음 사진은 위 식을 통해 얻은 하나의 원형모앙의 팬텀 실험 결과이다.<br>
 
 <p align="center">
   <img width="250" alt="sy=v" src="https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/71606ccc-85dc-46db-864e-5aebba2c3cc1">
@@ -39,7 +39,7 @@ $$\mathbb{S}\gamma = V$$ <br>
 
 ### Image reconstruction Algorithm using U-Net
 위 식을 통해 얻은 Fig. 2 ( $\gamma$ )는 정규화를 통해 선형시스템을 풀었지만 여전히 nonlinear inverse problem으로 인해 blur한 이미지를 얻는다.
-이를 sharp한 이미지를 얻기위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
+이를 sharp한 이미지를 얻기 위해 U-Net 모델을 이용하여 해결하고자 한다. <br>
 
 ![897F1CFC-1FF6-41C5-881D-85F9D3FB7700](https://github.com/jmseo1216/EIT_Deblurring/assets/159675684/4f365ea9-d896-436d-9097-9694d6cec85c)
 
